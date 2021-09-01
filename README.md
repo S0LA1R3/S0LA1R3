@@ -1,8 +1,8 @@
-- 👋 Hi, I’m S0LA1R3!
-- 👀 I’m interested in learn python.
-- 🌱 I’m currently learning python.
-- 💞️ I'm looking to collaborate on a basic python project to get an upgrade on my python skills.
-- 📫 How to reach me ...
+- 👋 Olá eu sou S0LA1R3!
+- 👀 Estou interessado em aprender programação e estou comçando em python.
+- 🌱 Atualmente estou aprendendo python.
+- 💞️ Estou procurando um projeto básico em python para aprimorar minhas habilidades.
+- 📫 Para falar comigo vá em S0LA1R3#0002 no discord.
 
 <!---
 S0LA1R3/S0LA1R3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
